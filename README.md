@@ -1,1 +1,1 @@
-# html-qr-code-page
+this project was made in html and css
